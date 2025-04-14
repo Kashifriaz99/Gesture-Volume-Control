@@ -18,4 +18,4 @@ This project is a Python-based **Gesture Volume Controller** that uses your webc
 - NumPy
 - datetime
 - Pycaw (Python Core Audio Windows Library)
-- comtypes
+- comtypes 
